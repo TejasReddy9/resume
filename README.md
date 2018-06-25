@@ -1,7 +1,9 @@
-simple-resume-cv
-================
+K Tejas Reddy's Resume
+======================
 
-Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
+I've used the template Simple-Resume-CV. 
+
+Documentation and License information of the template for a simple resume or curriculum vitae (CV), in XeLaTeX is mentioned below.
 
 **Compiled sample document:**<br>
 [CV.pdf](https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/CV.pdf)
