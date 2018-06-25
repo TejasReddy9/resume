@@ -2,6 +2,11 @@ K Tejas Reddy's Resume
 ======================
 
 I've used the template Simple-Resume-CV. 
+**My Resume**:<br>
+[Tejas_CV.pdf](https://raw.githubusercontent.com/tejasreddy9/simple-resume-cv/master/CV.pdf)
+
+>
+>
 
 Documentation and License information of the template for a simple resume or curriculum vitae (CV), in XeLaTeX is mentioned below.
 
